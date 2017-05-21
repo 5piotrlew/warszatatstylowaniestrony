@@ -23,3 +23,7 @@ nav#menu > ul > li.menu-item a {
     text-decoration: none;
     color: #fff;
 }
+
+nav#menu > ul > li.menu-item a:hover {
+    color: #999;
+}
